@@ -6,9 +6,9 @@ var UnminedMapProperties = {
     imageFormat: "png",
     minRegionX: -5,
     minRegionZ: -11,
-    maxRegionX: 6,
+    maxRegionX: 8,
     maxRegionZ: 6,
-    worldName: "Daniel's beautiful magical realm (World 2)",
+    worldName: "Dane's Realm of Mysteries (Creative)",
     background: "",
     markers: new Array()
 }
